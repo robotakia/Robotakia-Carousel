@@ -32,3 +32,8 @@
 Λουκάς Τσάνας
 
 Βάγια Σκριβάνου
+
+# Επιπλέον Πληροφορίες
+Δείτε την παρουσίαση του έργου μας: https://youtu.be/dXC-7UDARRI
+
+Θα βρείτε τη σελίδα του έργου μας: https://openedtech.ellak.gr/robotics2024/robotakia-carousel/
